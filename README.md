@@ -1,33 +1,36 @@
 <div align="center">
 
-###  Frontend developer 👨🏻‍💻 | MERN
+###  Frontend Enginner 👨🏻‍💻
 
 </div>
 
 > **About Me** <br>
->Hi there! I'm a final year BCA student with a passion for frontend development. I enjoy bringing ideas to life through clean and responsive UI designs. Currently, I'm on a journey to become a full-stack developer, focusing on the MERN stack (MongoDB, Express.js, React, Node.js).
 
->When I'm not coding, you'll probably find me on the football field ⚽ — it's my favorite way to unwind and stay active.
+>I got into frontend development because it sits at the intersection of **design and code**—where how something feels is just as important as how it works.
 
->I'm looking to collaborate on Open source projects, any beginner-friendly projects that promote learning and growth.
+>I hold a Bachelor's in Computer Applications and enjoy building fast, responsive web experiences with React, JavaScript, and Tailwind CSS. Whether it's refining layouts, polishing animations, or chasing down a bug with way too many tabs open, I genuinely enjoy the process of building.
+
+>I'm currently looking for opportunities where I can contribute to meaningful products, grow as an engineer, and write code I'm proud of.
 
 
 <br>
 
 ---
 
-<h2 align="center">Languages and Tools I Use</h2>
+## 💻 Languages & Tools I Use
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,figma" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,mongodb,git,github,vscode,figma,npm" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" alt="GSAP" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://ui.shadcn.com/favicon.ico" alt="shadcn/ui" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://lucide.dev/logo.light.svg" alt="Lucide React" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Lenis-000000?style=for-the-badge" alt="Lenis"/>
 </p>
