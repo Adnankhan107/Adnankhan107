@@ -1,6 +1,6 @@
 <div align="center">
 
-###  Frontend Enginner 👨🏻‍💻
+###  Learning ▪️ Building ▪️ Shipping 👨🏻‍💻
 
 </div>
 
